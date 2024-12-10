@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461278358090",
+    "project_id": "spotlessyou-60c22",
+    "storage_bucket": "spotlessyou-60c22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461278358090:android:e570b7f82ae5d130cd14b3",
+        "android_client_info": {
+          "package_name": "com.spotlessyou.spotlessyou"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDGAkoipPYQh-gR7bW7CI3Pb7WJ25ywNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
